@@ -1,6 +1,5 @@
 from pathlib import Path
 
-
 def main():
     path = Path("/Users/anthonylumantao/Downloads")
     existing = {item.name for item in path.iterdir() if item.is_dir()}

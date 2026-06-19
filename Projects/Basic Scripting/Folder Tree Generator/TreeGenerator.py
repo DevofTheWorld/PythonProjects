@@ -31,6 +31,6 @@ def generate(location, prefix=""):
 
 
 if __name__ == "__main__":
-    root = Path("/Users/anthonylumantao/Downloads/file")
+    root = Path("/Users/anthonylumantao/Desktop/Java Projects/Arnis_System_and_Score_Board/")
     print(root.name + "/")
     generate(root)

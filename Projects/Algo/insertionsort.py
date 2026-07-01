@@ -1,7 +1,5 @@
 def main(arr):
 
-    temporary = 0
-
     for i in range(len(arr)):
         current = arr[i]
         j = i - 1

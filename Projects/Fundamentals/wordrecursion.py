@@ -17,7 +17,7 @@ def main(char):
 
     return False
 
-print(cleanword("No lemon no melon"))
+print(cleanword("hello"))
 
 
 
